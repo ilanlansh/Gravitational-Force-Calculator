@@ -1,0 +1,1 @@
+I was in physics class when we started learning about gravity, gravitational force between two objects etc. I was inspired, so I wrote this simple program in python using tkinter that takes 3 inputs and calculates the gravitational force between the two objects.
